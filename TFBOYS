@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name=“description” content=“This is a website that to introduce my favorite artist”>
+<meta name=“viewport” content=“width=device-width, initial-scale=1”>
+
+<style>
+body {
+  background-color: #FFDEAD;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 80px;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+
+<title>This is TFBOYS</title>
+</head>
+
+<body>
+
+<!headings>
+<h1> This is TFBOYS</h1>
+
+<h3>The group debuted on August 6, 2013 with their first single album "Start of Love" at the young ages of 12 and 13 years old.</h3>
+
+
+
+<!Links>
+<a href="https://youtu.be/C8o_SLoyy44">Learn more</a>
+</br> </br>
+
+
+<!image>
+<img src="http://n.sinaimg.cn/front/414/w2048h1566/20190323/g9dB-huqrnap3938283.jpg" alt="mirrorchristmas" width="600">
+
+<!list>
+<h2>Our Core Memeber</h2>
+
+<ul>
+  <li>Karry Wang</li>
+  <li>Roy Wang</li>
+  <li>Jackson Yee</li>
+</ul>  
+
+<h2>My Favorite Song</h2>
+
+<ol>
+  <li>Imperfect Child</li>
+  <li>Truth or Dare</li>
+  <li>The Little Elf</li>
+</ol> 
+
+</body>
+</html>
+
